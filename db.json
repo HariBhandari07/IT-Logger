@@ -6,6 +6,20 @@
       "attention": false,
       "tech": "John Doe",
       "date": "2020-09-27T10:30:37.617Z"
+    },
+    {
+      "message": "Fixed 002 hard drive",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-09-27T10:50:51.717Z",
+      "id": 2
+    },
+    {
+      "message": "asdfa asdf asdf",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2020-09-27T10:50:59.442Z",
+      "id": 3
     }
   ],
   "techs": [
